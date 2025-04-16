@@ -1,0 +1,6 @@
+telethon
+keyboard
+colorama
+pyfiglet
+requests
+txjha
